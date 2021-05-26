@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kushelr" target="blank"><img src="https://img.shields.io/twitter/follow/kushelr?logo=twitter&style=for-the-badge" alt="kushelr" /></a> </p>
 
-- 🔭 I’m currently working on **My Final Year Project**
+- 🔭 I’m currently working on **something flutter related I guess**
 
-- 🌱 I’m currently learning **Spacy**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **react, .net**
 
